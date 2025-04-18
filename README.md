@@ -7,9 +7,9 @@ Insight Tracker is a real-time financial analytics platform designed to monitor 
 Fullstack
 
 ## Deplolyed App
-Frontend: [https://deployed-site.whatever](https://insighttrack.onrender.com/login)
-Backend: [https://deployed-site.whatever](https://insighttrack.onrender.com/login)
-Database: [https://deployed-site.whatever](https://insighttrack.onrender.com/login)
+Frontend: [https://insighttrack.onrender.com/login](https://insighttrack.onrender.com/login)
+Backend: [https://insighttrack.onrender.com/login](https://insighttrack.onrender.com/login)
+Database: [https://insighttrack.onrender.com/login](https://insighttrack.onrender.com/login)
 
 ## Directory Structure
 insight-tracker/
