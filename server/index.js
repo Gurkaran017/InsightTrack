@@ -8,7 +8,12 @@ dotenv.config();
 const path = require('path');
 
 app.use(express.json());
-app.use(cors());
+// app.use(cors());
+
+app.use(cors({
+    credentials:true,
+    origin:"https://insighttrack.onrender.com/"
+    }))
 
 app.use("/api/auth", router);
 
